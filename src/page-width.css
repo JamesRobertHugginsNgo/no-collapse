@@ -1,0 +1,7 @@
+/* boilerplate: https://github.com/JamesRobertHugginsNgo/page-width/blob/720992cb690f046c96ee1d51de278472dac60ad3/src/style.css */
+
+.page-width {
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 70ch;
+}
