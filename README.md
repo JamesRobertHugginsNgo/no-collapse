@@ -5,5 +5,5 @@
 
 ## Github Links
 
-- [Repo](https://github.com/JamesRobertHugginsNgo/no-collapse)
-- [Page](https://jamesroberthugginsngo.github.io/no-collapse/)
+- [View in github](https://github.com/JamesRobertHugginsNgo/no-collapse)
+- [View in github page](https://jamesroberthugginsngo.github.io/no-collapse/)
