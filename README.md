@@ -1,5 +1,7 @@
 # no-collapse
 
+A symple style to clear margin collapse.
+
 - [Boilerplate](src/style.css)
 - [Sample Page](sample/sample.html)
 
